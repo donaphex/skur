@@ -1,0 +1,28 @@
+{
+   "Ads":[
+      {
+"step1":"Text step1 Here",
+"step2":"Text step2 Here",
+"step3":"Text step3 Here",
+"step4":"To Continue, You will nedd to pass this step verification, it will take few seconds.",
+"step6":"Text step5 Here",
+"step7":"Text step6 Here",
+"cpa_link":"https://google.com",
+      
+"whichAds":"2","__0__":"__ADMOB__","__1__":"__FAN-MOPUB__","__2__":"__FAN-APPLOVIN__",
+      
+"admob_inter":"ca-app-pub-3940256099942544/1033173712",
+"admob_banner":"ca-app-pub-3940256099942544/6300978111",
+      
+"mopub_banner":"b195f8dd8ded45fe847ad89ed1d016da",
+"mopub_interst":"24534e1901884e398f1253216226017e",
+      
+"max_banner":"ae44996e2b723dcf",
+"max_inter":"2838649e0b560a68",
+      
+"isLastPageShow":false
+
+
+      }
+   ]
+}
